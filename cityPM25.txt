@@ -1,0 +1,50 @@
+San Jose, 94
+San Francisco, 62
+Oakland, 56
+Fremont, 80
+Santa Rosa, 98
+Hayward, 71
+Sunnyvale, 117
+Santa Clara, 96
+Vallejo, 53
+Concord, 54
+Berkeley, 110
+Fairfield, 71
+Richmond, 85
+Antioch, 105
+San Mateo, 69
+Daly City, 50
+Vacaville, 112
+San Leandro, 111
+Livermore, 56
+San Ramon, 55
+Redwood City, 73
+Mountain View, 40
+Milpitas, 58
+Pleasanton, 95
+Napa, 34
+Alameda, 119
+Pittsburg, 106
+Dublin, 74
+Union City, 48
+Walnut Creek, 47
+Palo Alto, 117
+South San Francisco, 62
+Brentwood, 86
+San Rafael, 84
+Cupertino, 60
+Petaluma, 34
+Gilroy, 35
+Novato, 40
+Newark, 61
+Morgan Hill, 86
+Rohnert Park, 83
+Campbell, 63
+San Bruno, 57
+Danville, 39
+Oakley, 76
+Pacifica, 61
+Martinez, 119
+Pleasant Hill, 110
+Foster City, 36
+Menlo Park, 69
